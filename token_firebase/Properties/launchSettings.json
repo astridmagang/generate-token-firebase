@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "token_firebase": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "E:\\GitHub\\generate-token-firebase"
+      }
+    }
+  }
+}
